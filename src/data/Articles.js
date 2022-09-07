@@ -1,0 +1,59 @@
+var Articles = [{
+    id: 'art1',
+    name: 'article1',
+    type: '00',
+    prix: '00',
+    img: "/imgarticles/art1.png", 
+    description: '...',     
+  }, {
+    id: 'art2',
+    name: 'article2',
+    type: '00',
+    prix: '00',
+    img: "/imgarticles/art2.png",  
+    description: '...',   
+  }, {
+    id: 'art3',
+    name: 'article3',
+    type: '00',
+    prix: '00',
+    img: "/imgarticles/art3.png", 
+    description: '...',     
+  }, {
+    id: 'art4',
+    name: 'article4',
+    type: '00',
+    prix: '00',
+    img: "/imgarticles/art4.png",  
+    description: '...', 
+  },{
+        id: 'art5',
+    name: 'article5',
+    type: '00',
+    prix: '00',
+    img: "./img/art5.png", 
+    description: '...', 
+  }, {
+    id: 'art6',
+    name: 'article6',
+    type: '00',
+    prix: '00',
+    img: "./img/art6.png",
+    description: '...',
+  }, {
+    id: 'art7',
+    prix: '00',
+    name: 'article7',
+    type: '00',
+    img: "./img/art7.png",
+    description: '...',
+  }, {
+    id: 'art8',
+    prix: '00',
+    name: 'article8',
+    type: '00',
+    img: "./img/art8.png",
+    description: '...',
+  }];
+  
+  export default Articles;

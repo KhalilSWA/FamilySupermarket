@@ -1,0 +1,113 @@
+.search-bar
+{
+    width:666px;
+    height:70px;
+    margin-top: 12px;
+    margin-left: -200px;
+}
+.form-control
+{
+    width:666px;
+    height:70px;
+}
+
+button.btn /*search img*/
+{
+    background-color:#ffffff;
+    border-color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: -105px;
+    width:40px;
+    height:30px;
+}
+
+button.btn.btn-primary /*cart btn*/
+{
+    background-color:#ffffff;
+    margin-top: 10px;
+    margin-right: 100px;
+    width:40px;
+    height:30px;
+}
+.cart /*cart img*/
+{
+    margin-top: -5px;
+    margin-left: -10px;
+}
+.favoris /*fav img*/
+{
+    margin-left: -10px;
+    margin-top: 0px;
+}
+.fav /*fav btn */
+{
+    margin-top: 7px;
+    margin-left: 1130px;
+    width: 50px;
+    height: 50px;
+    box-sizing:content-box;
+    
+}
+.prf
+{
+    margin-left: 1050px;
+    margin-top: -50px;
+
+}
+
+.navbar
+{
+    background-color: rgb(255, 255, 255);
+    height: 0px;
+    margin-top: 0px;
+}
+
+.nav
+{
+    margin-top: 40px;
+    margin-left: 100px;
+
+}
+
+.logo
+{
+    margin-top: -4px;
+    margin-left: 70px;
+}
+
+.d-block
+{
+    margin-top: 100px;
+}
+
+.prfcr
+{
+    margin-left: 170px;
+
+}
+
+.log
+{
+    background-color:#d3cccc;
+
+}
+
+.email
+{
+    margin-left: 90px;
+}
+
+.password
+{
+    margin-left: 90px;
+}
+
+.btn.btn-danger
+{
+    margin-top: 10px;
+}
+
+.btn.btn-success
+{
+    margin-top: 10px;
+}
